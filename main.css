@@ -60,6 +60,7 @@ section{
 
 .btn:hover{
     background: #ffd90033;
+    color: var(--black);
 }
 
 
